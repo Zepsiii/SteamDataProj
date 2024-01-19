@@ -1,0 +1,2549 @@
+[
+    {
+        "AppID": "620",
+        "App Name": "Portal 2",
+        "Discount Rate": "-90%",
+        "Price": "$0.57",
+        "Like Ratio": "97.71%",
+        "Release Date": "Apr 2011",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "413150",
+        "App Name": "Stardew Valley",
+        "Discount Rate": "-33%",
+        "Price": "$4.01",
+        "Like Ratio": "97.39%",
+        "Release Date": "Feb 2016",
+        "Playtime (minutes)": 3138
+    },
+    {
+        "AppID": "550",
+        "App Name": "Left 4 Dead 2",
+        "Discount Rate": "-90%",
+        "Price": "$0.57",
+        "Like Ratio": "96.77%",
+        "Release Date": "Nov 2009",
+        "Playtime (minutes)": 120
+    },
+    {
+        "AppID": "1055540",
+        "App Name": "A Short Hike",
+        "Discount Rate": "-45%",
+        "Price": "$2.46",
+        "Like Ratio": "96.52%",
+        "Release Date": "Jul 2019",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "431730",
+        "App Name": "Aseprite",
+        "Discount Rate": "-30%",
+        "Price": "$7.34",
+        "Like Ratio": "96.51%",
+        "Release Date": "Feb 2016",
+        "Playtime (minutes)": 1884
+    },
+    {
+        "AppID": "508440",
+        "App Name": "Totally Accurate Battle Simulator",
+        "Discount Rate": "-66%",
+        "Price": "$3.05",
+        "Like Ratio": "96.43%",
+        "Release Date": "Apr 2021",
+        "Playtime (minutes)": 150
+    },
+    {
+        "AppID": "220",
+        "App Name": "Half-Life 2",
+        "Discount Rate": "-90%",
+        "Price": "$0.57",
+        "Like Ratio": "96.35%",
+        "Release Date": "Nov 2004",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "367520",
+        "App Name": "Hollow Knight",
+        "Discount Rate": "-50%",
+        "Price": "$2.99",
+        "Like Ratio": "96.15%",
+        "Release Date": "Feb 2017",
+        "Playtime (minutes)": 16
+    },
+    {
+        "AppID": "1230140",
+        "App Name": "ATRI -My Dear Moments-",
+        "Discount Rate": "-30%",
+        "Price": "$7.35",
+        "Like Ratio": "96.05%",
+        "Release Date": "Jun 2020",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1150690",
+        "App Name": "OMORI",
+        "Discount Rate": "-35%",
+        "Price": "$12.99",
+        "Like Ratio": "95.90%",
+        "Release Date": "Dec 2020",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1669980",
+        "App Name": "Volcano Princess",
+        "Discount Rate": "-15%",
+        "Price": "$9.34",
+        "Like Ratio": "95.60%",
+        "Release Date": "Apr 2023",
+        "Playtime (minutes)": 3828
+    },
+    {
+        "AppID": "239030",
+        "App Name": "Papers, Please",
+        "Discount Rate": "-50%",
+        "Price": "$4.99",
+        "Like Ratio": "95.51%",
+        "Release Date": "Aug 2013",
+        "Playtime (minutes)": 1356
+    },
+    {
+        "AppID": "391540",
+        "App Name": "Undertale",
+        "Discount Rate": "-70%",
+        "Price": "$2.99",
+        "Like Ratio": "95.50%",
+        "Release Date": "Sep 2015",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "736260",
+        "App Name": "Baba Is You",
+        "Discount Rate": "-30%",
+        "Price": "$10.49",
+        "Like Ratio": "95.44%",
+        "Release Date": "Mar 2019",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1593500",
+        "App Name": "God of War",
+        "Discount Rate": "-50%",
+        "Price": "$24.99",
+        "Like Ratio": "95.42%",
+        "Release Date": "Jan 2022",
+        "Playtime (minutes)": 342
+    },
+    {
+        "AppID": "698780",
+        "App Name": "Doki Doki Literature Club!",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Sep 2017",
+        "Playtime (minutes)": 702
+    },
+    {
+        "AppID": "292030",
+        "App Name": "The Witcher\u00ae 3: Wild Hunt",
+        "Discount Rate": "-75%",
+        "Price": "$7.49",
+        "Like Ratio": "95.28%",
+        "Release Date": "May 2015",
+        "Playtime (minutes)": 9654
+    },
+    {
+        "AppID": "739630",
+        "App Name": "Phasmophobia",
+        "Discount Rate": "-20%",
+        "Price": "$6.23",
+        "Like Ratio": "95.25%",
+        "Release Date": "Sep 2020",
+        "Playtime (minutes)": 996
+    },
+    {
+        "AppID": "1057090",
+        "App Name": "Ori and the Will of the Wisps",
+        "Discount Rate": "-67%",
+        "Price": "$9.89",
+        "Like Ratio": "95.23%",
+        "Release Date": "Mar 2020",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "70",
+        "App Name": "Half-Life",
+        "Discount Rate": "-90%",
+        "Price": "$0.57",
+        "Like Ratio": "95.21%",
+        "Release Date": "Nov 1998",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "203160",
+        "App Name": "Tomb Raider",
+        "Discount Rate": "-80%",
+        "Price": "$1.49",
+        "Like Ratio": "95.03%",
+        "Release Date": "Mar 2013",
+        "Playtime (minutes)": 672
+    },
+    {
+        "AppID": "238320",
+        "App Name": "Outlast",
+        "Discount Rate": "-85%",
+        "Price": "$1.57",
+        "Like Ratio": "95.03%",
+        "Release Date": "Sep 2013",
+        "Playtime (minutes)": 672
+    },
+    {
+        "AppID": "1082430",
+        "App Name": "Before Your Eyes",
+        "Discount Rate": "-50%",
+        "Price": "$2.89",
+        "Like Ratio": "95.02%",
+        "Release Date": "Apr 2021",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "412830",
+        "App Name": "STEINS;GATE",
+        "Discount Rate": "-50%",
+        "Price": "$14.99",
+        "Like Ratio": "94.95%",
+        "Release Date": "Sep 2016",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "683320",
+        "App Name": "GRIS",
+        "Discount Rate": "-75%",
+        "Price": "$1.99",
+        "Like Ratio": "94.94%",
+        "Release Date": "Dec 2018",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "319630",
+        "App Name": "Life is Strange - Episode 1",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Jan 2015",
+        "Playtime (minutes)": 983
+    },
+    {
+        "AppID": "322330",
+        "App Name": "Don't Starve Together",
+        "Discount Rate": "-66%",
+        "Price": "$2.71",
+        "Like Ratio": "94.86%",
+        "Release Date": "Apr 2016",
+        "Playtime (minutes)": 216
+    },
+    {
+        "AppID": "1292940",
+        "App Name": "Cube Escape Collection",
+        "Discount Rate": "-44%",
+        "Price": "$2.79",
+        "Like Ratio": "94.73%",
+        "Release Date": "Oct 2020",
+        "Playtime (minutes)": 156
+    },
+    {
+        "AppID": "1392820",
+        "App Name": "Milk inside a bag of milk inside a bag of milk",
+        "Discount Rate": "-51%",
+        "Price": "$0.49",
+        "Like Ratio": "94.72%",
+        "Release Date": "Aug 2020",
+        "Playtime (minutes)": 27
+    },
+    {
+        "AppID": "541570",
+        "App Name": "Sally Face - Episode One",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Dec 2016",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "242760",
+        "App Name": "The Forest",
+        "Discount Rate": "-77%",
+        "Price": "$2.41",
+        "Like Ratio": "94.63%",
+        "Release Date": "Apr 2018",
+        "Playtime (minutes)": 888
+    },
+    {
+        "AppID": "1604000",
+        "App Name": "Milk outside a bag of milk outside a bag of milk",
+        "Discount Rate": "-50%",
+        "Price": "$4.49",
+        "Like Ratio": "94.54%",
+        "Release Date": "Dec 2021",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "2291850",
+        "App Name": "Underground Blossom",
+        "Discount Rate": "-44%",
+        "Price": "$2.79",
+        "Like Ratio": "94.53%",
+        "Release Date": "Sep 2023",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "909080",
+        "App Name": "Cube Escape: Paradox",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Sep 2018",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1388880",
+        "App Name": "Doki Doki Literature Club Plus!",
+        "Discount Rate": "-30%",
+        "Price": "$7.86",
+        "Like Ratio": "94.45%",
+        "Release Date": "Jun 2021",
+        "Playtime (minutes)": 612
+    },
+    {
+        "AppID": "1948280",
+        "App Name": "Stacklands",
+        "Discount Rate": "-30%",
+        "Price": "$5.59",
+        "Like Ratio": "94.40%",
+        "Release Date": "Apr 2022",
+        "Playtime (minutes)": 594
+    },
+    {
+        "AppID": "814380",
+        "App Name": "Sekiro\u2122: Shadows Die Twice - GOTY Edition",
+        "Discount Rate": "-50%",
+        "Price": "$29.99",
+        "Like Ratio": "94.28%",
+        "Release Date": "Mar 2019",
+        "Playtime (minutes)": 306
+    },
+    {
+        "AppID": "282140",
+        "App Name": "SOMA",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Sep 2015",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1161870",
+        "App Name": "Epiphyllum in Love",
+        "Discount Rate": "-40%",
+        "Price": "$2.39",
+        "Like Ratio": "93.87%",
+        "Release Date": "Mar 2020",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "501300",
+        "App Name": "What Remains of Edith Finch",
+        "Discount Rate": "-75%",
+        "Price": "$2.24",
+        "Like Ratio": "93.71%",
+        "Release Date": "Apr 2017",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "871720",
+        "App Name": "Ultimate Custom Night",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Jun 2018",
+        "Playtime (minutes)": 690
+    },
+    {
+        "AppID": "287980",
+        "App Name": "Mini Metro",
+        "Discount Rate": "-50%",
+        "Price": "$2.89",
+        "Like Ratio": "93.64%",
+        "Release Date": "Nov 2015",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "812810",
+        "App Name": "missed messages.",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "May 2019",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "424840",
+        "App Name": "Little Nightmares",
+        "Discount Rate": "-75%",
+        "Price": "$3.24",
+        "Like Ratio": "93.39%",
+        "Release Date": "Apr 2017",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1127400",
+        "App Name": "Mindustry",
+        "Discount Rate": "-50%",
+        "Price": "$4.99",
+        "Like Ratio": "93.39%",
+        "Release Date": "Sep 2019",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "532110",
+        "App Name": "Rusty Lake: Roots",
+        "Discount Rate": "-44%",
+        "Price": "$2.23",
+        "Like Ratio": "93.26%",
+        "Release Date": "Oct 2016",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1218900",
+        "App Name": "Zup! Z",
+        "Discount Rate": "-70%",
+        "Price": "$0.44",
+        "Like Ratio": "93.21%",
+        "Release Date": "Dec 2020",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1239690",
+        "App Name": "Retrowave",
+        "Discount Rate": "-70%",
+        "Price": "$0.54",
+        "Like Ratio": "93.20%",
+        "Release Date": "May 2022",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "50130",
+        "App Name": "Mafia II (Classic)",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Mar 2011",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1451940",
+        "App Name": "NEEDY STREAMER OVERLOAD",
+        "Discount Rate": "-50%",
+        "Price": "$4.24",
+        "Like Ratio": "93.05%",
+        "Release Date": "Jan 2022",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "40700",
+        "App Name": "Machinarium",
+        "Discount Rate": "-80%",
+        "Price": "$1.19",
+        "Like Ratio": "92.90%",
+        "Release Date": "Oct 2009",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "939400",
+        "App Name": "LoveChoice",
+        "Discount Rate": "-20%",
+        "Price": "$1.19",
+        "Like Ratio": "92.88%",
+        "Release Date": "Nov 2021",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "944020",
+        "App Name": "Dream Ending",
+        "Discount Rate": "-40%",
+        "Price": "$2.39",
+        "Like Ratio": "92.87%",
+        "Release Date": "Jul 2019",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "49520",
+        "App Name": "Borderlands 2",
+        "Discount Rate": "-75%",
+        "Price": "$4.99",
+        "Like Ratio": "92.84%",
+        "Release Date": "Sep 2012",
+        "Playtime (minutes)": 864
+    },
+    {
+        "AppID": "825630",
+        "App Name": "STEINS;GATE 0",
+        "Discount Rate": "-50%",
+        "Price": "$17.49",
+        "Like Ratio": "92.84%",
+        "Release Date": "May 2018",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1206560",
+        "App Name": "WorldBox - God Simulator",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Dec 2021",
+        "Playtime (minutes)": 312
+    },
+    {
+        "AppID": "435120",
+        "App Name": "Rusty Lake Hotel",
+        "Discount Rate": "-44%",
+        "Price": "$1.11",
+        "Like Ratio": "92.78%",
+        "Release Date": "Jan 2016",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "391220",
+        "App Name": "Rise of the Tomb Raider\u2122",
+        "Discount Rate": "-80%",
+        "Price": "$2.99",
+        "Like Ratio": "92.69%",
+        "Release Date": "Feb 2016",
+        "Playtime (minutes)": 516
+    },
+    {
+        "AppID": "1201280",
+        "App Name": "A Space For The Unbound - Prologue",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Jan 2020",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "638230",
+        "App Name": "Journey",
+        "Discount Rate": "-60%",
+        "Price": "$2.99",
+        "Like Ratio": "92.59%",
+        "Release Date": "Jun 2020",
+        "Playtime (minutes)": 96
+    },
+    {
+        "AppID": "914800",
+        "App Name": "Coffee Talk",
+        "Discount Rate": "-40%",
+        "Price": "$4.37",
+        "Like Ratio": "92.47%",
+        "Release Date": "Jan 2020",
+        "Playtime (minutes)": 168
+    },
+    {
+        "AppID": "1515210",
+        "App Name": "The Past Within",
+        "Discount Rate": "-44%",
+        "Price": "$3.35",
+        "Like Ratio": "92.24%",
+        "Release Date": "Nov 2022",
+        "Playtime (minutes)": 108
+    },
+    {
+        "AppID": "738060",
+        "App Name": "Freddy Fazbear's Pizzeria Simulator",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Dec 2017",
+        "Playtime (minutes)": 180
+    },
+    {
+        "AppID": "1703340",
+        "App Name": "The Stanley Parable: Ultra Deluxe",
+        "Discount Rate": "-60%",
+        "Price": "$9.99",
+        "Like Ratio": "92.02%",
+        "Release Date": "Apr 2022",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1304930",
+        "App Name": "The Outlast Trials",
+        "Discount Rate": "-25%",
+        "Price": "$11.24",
+        "Like Ratio": "91.98%",
+        "Release Date": "May 2023",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1111460",
+        "App Name": "\u5c0f\u767d\u5154\u7535\u5546~Bunny e-Shop",
+        "Discount Rate": "-29%",
+        "Price": "$7.80",
+        "Like Ratio": "91.93%",
+        "Release Date": "Nov 2021",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "351920",
+        "App Name": "Crazy Machines 3",
+        "Discount Rate": "-90%",
+        "Price": "$0.69",
+        "Like Ratio": "91.78%",
+        "Release Date": "Oct 2016",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1889040",
+        "App Name": "Birth",
+        "Discount Rate": "-30%",
+        "Price": "$4.40",
+        "Like Ratio": "91.70%",
+        "Release Date": "Feb 2023",
+        "Playtime (minutes)": 3
+    },
+    {
+        "AppID": "744190",
+        "App Name": "Rusty Lake Paradise",
+        "Discount Rate": "-44%",
+        "Price": "$2.23",
+        "Like Ratio": "91.65%",
+        "Release Date": "Jan 2018",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1164050",
+        "App Name": "When The Past Was Around",
+        "Discount Rate": "-40%",
+        "Price": "$2.69",
+        "Like Ratio": "91.57%",
+        "Release Date": "Sep 2020",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "307690",
+        "App Name": "Sleeping Dogs: Definitive Edition",
+        "Discount Rate": "-85%",
+        "Price": "$2.39",
+        "Like Ratio": "91.50%",
+        "Release Date": "Oct 2014",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1002560",
+        "App Name": "Tiny Snow",
+        "Discount Rate": "-40%",
+        "Price": "$2.39",
+        "Like Ratio": "91.48%",
+        "Release Date": "Feb 2019",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "326460",
+        "App Name": "ShellShock Live",
+        "Discount Rate": "-30%",
+        "Price": "$6.99",
+        "Like Ratio": "91.47%",
+        "Release Date": "May 2020",
+        "Playtime (minutes)": 22
+    },
+    {
+        "AppID": "554620",
+        "App Name": "Life is Strange: Before the Storm",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Aug 2017",
+        "Playtime (minutes)": 786
+    },
+    {
+        "AppID": "1688580",
+        "App Name": "A YEAR OF SPRINGS",
+        "Discount Rate": "-30%",
+        "Price": "$2.09",
+        "Like Ratio": "91.42%",
+        "Release Date": "Sep 2021",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1012880",
+        "App Name": "60 Seconds! Reatomized",
+        "Discount Rate": "-50%",
+        "Price": "$4.99",
+        "Like Ratio": "91.29%",
+        "Release Date": "Jul 2019",
+        "Playtime (minutes)": 138
+    },
+    {
+        "AppID": "347620",
+        "App Name": "Gaokao.Love.100Days",
+        "Discount Rate": "-40%",
+        "Price": "$5.99",
+        "Like Ratio": "91.20%",
+        "Release Date": "May 2015",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "568220",
+        "App Name": "Lobotomy Corporation | Monster Management Simulation",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Apr 2018",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "956030",
+        "App Name": "Creaks",
+        "Discount Rate": "-75%",
+        "Price": "$1.49",
+        "Like Ratio": "91.07%",
+        "Release Date": "Jul 2020",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "658850",
+        "App Name": "Do Not Feed the Monkeys",
+        "Discount Rate": "-80%",
+        "Price": "$1.31",
+        "Like Ratio": "91.05%",
+        "Release Date": "Oct 2018",
+        "Playtime (minutes)": 66
+    },
+    {
+        "AppID": "241930",
+        "App Name": "Middle-earth\u2122: Shadow of Mordor\u2122",
+        "Discount Rate": "-75%",
+        "Price": "$4.99",
+        "Like Ratio": "90.94%",
+        "Release Date": "Sep 2014",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1102130",
+        "App Name": "Florence",
+        "Discount Rate": "-67%",
+        "Price": "$1.08",
+        "Like Ratio": "90.92%",
+        "Release Date": "Feb 2020",
+        "Playtime (minutes)": 96
+    },
+    {
+        "AppID": "394360",
+        "App Name": "Hearts of Iron IV",
+        "Discount Rate": "-70%",
+        "Price": "$7.19",
+        "Like Ratio": "90.91%",
+        "Release Date": "Jun 2016",
+        "Playtime (minutes)": 29934
+    },
+    {
+        "AppID": "43110",
+        "App Name": "Metro 2033",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Mar 2010",
+        "Playtime (minutes)": 138
+    },
+    {
+        "AppID": "1063660",
+        "App Name": "Bendy and the Dark Revival",
+        "Discount Rate": "-80%",
+        "Price": "$5.99",
+        "Like Ratio": "90.81%",
+        "Release Date": "Nov 2022",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "979600",
+        "App Name": "Kaori After Story",
+        "Discount Rate": "-75%",
+        "Price": "$2.49",
+        "Like Ratio": "90.78%",
+        "Release Date": "Dec 2018",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1135690",
+        "App Name": "Unpacking",
+        "Discount Rate": "-50%",
+        "Price": "$4.99",
+        "Like Ratio": "90.73%",
+        "Release Date": "Nov 2021",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "12110",
+        "App Name": "Grand Theft Auto: Vice City",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "May 2003",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "477740",
+        "App Name": "Zero Escape: The Nonary Games",
+        "Discount Rate": "-60%",
+        "Price": "$11.99",
+        "Like Ratio": "90.70%",
+        "Release Date": "Mar 2017",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1145960",
+        "App Name": "The White Door",
+        "Discount Rate": "-44%",
+        "Price": "$2.23",
+        "Like Ratio": "90.61%",
+        "Release Date": "Jan 2020",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "930910",
+        "App Name": "STEINS;GATE: Linear Bounded Phenogram",
+        "Discount Rate": "-50%",
+        "Price": "$29.99",
+        "Like Ratio": "90.37%",
+        "Release Date": "Feb 2019",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "489830",
+        "App Name": "The Elder Scrolls V: Skyrim Special Edition",
+        "Discount Rate": "-80%",
+        "Price": "$4.79",
+        "Like Ratio": "90.36%",
+        "Release Date": "Oct 2016",
+        "Playtime (minutes)": 318
+    },
+    {
+        "AppID": "1174180",
+        "App Name": "Red Dead Redemption 2",
+        "Discount Rate": "-67%",
+        "Price": "$19.79",
+        "Like Ratio": "90.30%",
+        "Release Date": "Dec 2019",
+        "Playtime (minutes)": 894
+    },
+    {
+        "AppID": "845070",
+        "App Name": "The Awesome Adventures of Captain Spirit",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Jun 2018",
+        "Playtime (minutes)": 300
+    },
+    {
+        "AppID": "1274570",
+        "App Name": "DEVOUR",
+        "Discount Rate": "-20%",
+        "Price": "$2.39",
+        "Like Ratio": "90.19%",
+        "Release Date": "Jan 2021",
+        "Playtime (minutes)": 114
+    },
+    {
+        "AppID": "2296990",
+        "App Name": "We Were Here Expeditions: The FriendShip",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Sep 2023",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1207650",
+        "App Name": "Suzerain",
+        "Discount Rate": "-70%",
+        "Price": "$3.14",
+        "Like Ratio": "90.10%",
+        "Release Date": "Dec 2020",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "588040",
+        "App Name": "WILL: A Wonderful World / WILL\uff1a\u7f8e\u597d\u4e16\u754c",
+        "Discount Rate": "-20%",
+        "Price": "$11.99",
+        "Like Ratio": "90.03%",
+        "Release Date": "Jun 2017",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "844670",
+        "App Name": "Please Be Happy",
+        "Discount Rate": "-25%",
+        "Price": "$7.49",
+        "Like Ratio": "89.78%",
+        "Release Date": "Nov 2022",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1525700",
+        "App Name": "Tavern Master",
+        "Discount Rate": "-50%",
+        "Price": "$3.99",
+        "Like Ratio": "89.73%",
+        "Release Date": "Nov 2021",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "388880",
+        "App Name": "Oxenfree",
+        "Discount Rate": "-70%",
+        "Price": "$2.99",
+        "Like Ratio": "89.72%",
+        "Release Date": "Jan 2016",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "414700",
+        "App Name": "Outlast 2",
+        "Discount Rate": "-85%",
+        "Price": "$2.24",
+        "Like Ratio": "89.63%",
+        "Release Date": "Apr 2017",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "475550",
+        "App Name": "Beholder",
+        "Discount Rate": "-85%",
+        "Price": "$0.86",
+        "Like Ratio": "89.62%",
+        "Release Date": "Nov 2016",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1017180",
+        "App Name": "The Long Drive",
+        "Discount Rate": "-33%",
+        "Price": "$5.68",
+        "Like Ratio": "89.51%",
+        "Release Date": "Sep 2019",
+        "Playtime (minutes)": 40
+    },
+    {
+        "AppID": "22100",
+        "App Name": "Mount & Blade",
+        "Discount Rate": "-75%",
+        "Price": "$0.99",
+        "Like Ratio": "89.38%",
+        "Release Date": "Sep 2008",
+        "Playtime (minutes)": 3564
+    },
+    {
+        "AppID": "312660",
+        "App Name": "Sniper Elite 4",
+        "Discount Rate": "-90%",
+        "Price": "$5.99",
+        "Like Ratio": "89.37%",
+        "Release Date": "Feb 2017",
+        "Playtime (minutes)": 1344
+    },
+    {
+        "AppID": "1466640",
+        "App Name": "Road 96 \ud83d\udee3\ufe0f",
+        "Discount Rate": "-75%",
+        "Price": "$3.74",
+        "Like Ratio": "89.27%",
+        "Release Date": "Aug 2021",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "8190",
+        "App Name": "Just Cause 2",
+        "Discount Rate": "-90%",
+        "Price": "$1.19",
+        "Like Ratio": "89.25%",
+        "Release Date": "Mar 2010",
+        "Playtime (minutes)": 342
+    },
+    {
+        "AppID": "505230",
+        "App Name": "Pathologic 2",
+        "Discount Rate": "-80%",
+        "Price": "$3.59",
+        "Like Ratio": "89.24%",
+        "Release Date": "May 2019",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1341290",
+        "App Name": "We Were Here Forever",
+        "Discount Rate": "-45%",
+        "Price": "$5.10",
+        "Like Ratio": "89.10%",
+        "Release Date": "May 2022",
+        "Playtime (minutes)": 120
+    },
+    {
+        "AppID": "1172620",
+        "App Name": "Sea of Thieves 2023 Edition",
+        "Discount Rate": "-50%",
+        "Price": "$19.99",
+        "Like Ratio": "89.08%",
+        "Release Date": "Jun 2020",
+        "Playtime (minutes)": 648
+    },
+    {
+        "AppID": "989790",
+        "App Name": "The Vale: Shadow of the Crown",
+        "Discount Rate": "-65%",
+        "Price": "$3.67",
+        "Like Ratio": "89.04%",
+        "Release Date": "Aug 2021",
+        "Playtime (minutes)": 60
+    },
+    {
+        "AppID": "265930",
+        "App Name": "Goat Simulator",
+        "Discount Rate": "-80%",
+        "Price": "$1.99",
+        "Like Ratio": "89.01%",
+        "Release Date": "Apr 2014",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "978460",
+        "App Name": "Emily is Away <3",
+        "Discount Rate": "-80%",
+        "Price": "$1.99",
+        "Like Ratio": "89.00%",
+        "Release Date": "Apr 2021",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "976010",
+        "App Name": "I hate this game",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Mar 2019",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "792100",
+        "App Name": "7 Billion Humans",
+        "Discount Rate": "-66%",
+        "Price": "$5.09",
+        "Like Ratio": "88.93%",
+        "Release Date": "Aug 2018",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1055430",
+        "App Name": "Swords and Sandals Classic Collection",
+        "Discount Rate": "-30%",
+        "Price": "$6.99",
+        "Like Ratio": "88.90%",
+        "Release Date": "Apr 2019",
+        "Playtime (minutes)": 120
+    },
+    {
+        "AppID": "582500",
+        "App Name": "We Were Here",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Feb 2017",
+        "Playtime (minutes)": 396
+    },
+    {
+        "AppID": "1509960",
+        "App Name": "PICO PARK",
+        "Discount Rate": "-20%",
+        "Price": "$2.39",
+        "Like Ratio": "88.81%",
+        "Release Date": "May 2021",
+        "Playtime (minutes)": 162
+    },
+    {
+        "AppID": "218620",
+        "App Name": "PAYDAY 2",
+        "Discount Rate": "-90%",
+        "Price": "$0.99",
+        "Like Ratio": "88.76%",
+        "Release Date": "Aug 2013",
+        "Playtime (minutes)": 192
+    },
+    {
+        "AppID": "1749630",
+        "App Name": "Chill Corner",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Dec 2021",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "619150",
+        "App Name": "while True: learn()",
+        "Discount Rate": "-35%",
+        "Price": "$4.73",
+        "Like Ratio": "88.69%",
+        "Release Date": "Jan 2019",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1732750",
+        "App Name": "Havsala: Into the Soul Palace",
+        "Discount Rate": "-70%",
+        "Price": "$0.74",
+        "Like Ratio": "88.49%",
+        "Release Date": "Jun 2022",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "287390",
+        "App Name": "Metro: Last Light Redux",
+        "Discount Rate": "-90%",
+        "Price": "$1.49",
+        "Like Ratio": "88.33%",
+        "Release Date": "Aug 2014",
+        "Playtime (minutes)": 96
+    },
+    {
+        "AppID": "286690",
+        "App Name": "Metro 2033 Redux",
+        "Discount Rate": "-90%",
+        "Price": "$1.49",
+        "Like Ratio": "88.32%",
+        "Release Date": "Aug 2014",
+        "Playtime (minutes)": 53
+    },
+    {
+        "AppID": "20920",
+        "App Name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+        "Discount Rate": "-85%",
+        "Price": "$2.24",
+        "Like Ratio": "88.24%",
+        "Release Date": "May 2011",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1727210",
+        "App Name": "MINDHACK",
+        "Discount Rate": "-20%",
+        "Price": "$10.39",
+        "Like Ratio": "88.18%",
+        "Release Date": "Apr 2023",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1555110",
+        "App Name": "Chasing Tails ~A Promise in the Snow~",
+        "Discount Rate": "-51%",
+        "Price": "$3.91",
+        "Like Ratio": "88.14%",
+        "Release Date": "Aug 2021",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "207080",
+        "App Name": "Indie Game: The Movie",
+        "Discount Rate": "-75%",
+        "Price": "$3.49",
+        "Like Ratio": "88.10%",
+        "Release Date": "Jun 2012",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "412020",
+        "App Name": "Metro Exodus",
+        "Discount Rate": "-80%",
+        "Price": "$4.59",
+        "Like Ratio": "88.04%",
+        "Release Date": "Feb 2019",
+        "Playtime (minutes)": 15
+    },
+    {
+        "AppID": "323850",
+        "App Name": "Move or Die",
+        "Discount Rate": "-75%",
+        "Price": "$0.99",
+        "Like Ratio": "87.93%",
+        "Release Date": "Jan 2016",
+        "Playtime (minutes)": 40
+    },
+    {
+        "AppID": "209080",
+        "App Name": "Guns of Icarus Online",
+        "Discount Rate": "-39%",
+        "Price": "$3.04",
+        "Like Ratio": "87.79%",
+        "Release Date": "Oct 2012",
+        "Playtime (minutes)": 44
+    },
+    {
+        "AppID": "280160",
+        "App Name": "Aragami",
+        "Discount Rate": "-85%",
+        "Price": "$1.57",
+        "Like Ratio": "87.73%",
+        "Release Date": "Oct 2016",
+        "Playtime (minutes)": 672
+    },
+    {
+        "AppID": "936790",
+        "App Name": "Life is Strange: True Colors",
+        "Discount Rate": "-70%",
+        "Price": "$13.49",
+        "Like Ratio": "87.73%",
+        "Release Date": "Sep 2021",
+        "Playtime (minutes)": 1386
+    },
+    {
+        "AppID": "538070",
+        "App Name": "Bad Dream: Coma",
+        "Discount Rate": "-90%",
+        "Price": "$0.89",
+        "Like Ratio": "87.69%",
+        "Release Date": "Mar 2017",
+        "Playtime (minutes)": 491
+    },
+    {
+        "AppID": "383870",
+        "App Name": "Firewatch",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Feb 2016",
+        "Playtime (minutes)": 372
+    },
+    {
+        "AppID": "316790",
+        "App Name": "Grim Fandango Remastered",
+        "Discount Rate": "-77%",
+        "Price": "$3.44",
+        "Like Ratio": "87.55%",
+        "Release Date": "Jan 2015",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "241260",
+        "App Name": "Sherlock Holmes: Crimes and Punishments",
+        "Discount Rate": "-90%",
+        "Price": "$1.79",
+        "Like Ratio": "87.49%",
+        "Release Date": "Sep 2014",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "20900",
+        "App Name": "The Witcher: Enhanced Edition Director's Cut",
+        "Discount Rate": "-85%",
+        "Price": "$1.12",
+        "Like Ratio": "87.43%",
+        "Release Date": "Sep 2008",
+        "Playtime (minutes)": 26
+    },
+    {
+        "AppID": "730",
+        "App Name": "Counter-Strike 2",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Aug 2012",
+        "Playtime (minutes)": 71832
+    },
+    {
+        "AppID": "236430",
+        "App Name": "DARK SOULS\u2122 II",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Apr 2014",
+        "Playtime (minutes)": 72
+    },
+    {
+        "AppID": "261550",
+        "App Name": "Mount & Blade II: Bannerlord",
+        "Discount Rate": "-40%",
+        "Price": "$11.99",
+        "Like Ratio": "87.02%",
+        "Release Date": "Oct 2022",
+        "Playtime (minutes)": 15816
+    },
+    {
+        "AppID": "823130",
+        "App Name": "Totally Accurate Battlegrounds",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Jun 2018",
+        "Playtime (minutes)": 28
+    },
+    {
+        "AppID": "2610",
+        "App Name": "GUN\u2122",
+        "Discount Rate": "-67%",
+        "Price": "$6.59",
+        "Like Ratio": "86.98%",
+        "Release Date": "Nov 2005",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "356190",
+        "App Name": "Middle-earth\u2122: Shadow of War\u2122",
+        "Discount Rate": "-85%",
+        "Price": "$7.49",
+        "Like Ratio": "86.94%",
+        "Release Date": "Oct 2017",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "340",
+        "App Name": "Half-Life 2: Lost Coast",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Oct 2005",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1151640",
+        "App Name": "Horizon Zero Dawn\u2122 Complete Edition",
+        "Discount Rate": "-75%",
+        "Price": "$12.49",
+        "Like Ratio": "86.78%",
+        "Release Date": "Aug 2020",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "651500",
+        "App Name": "My Memory of Us",
+        "Discount Rate": "-85%",
+        "Price": "$1.39",
+        "Like Ratio": "86.76%",
+        "Release Date": "Oct 2018",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "819030",
+        "App Name": "STEINS;GATE ELITE",
+        "Discount Rate": "-50%",
+        "Price": "$29.99",
+        "Like Ratio": "86.74%",
+        "Release Date": "Feb 2019",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "573170",
+        "App Name": "Fidel Dungeon Rescue",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Aug 2017",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "733300",
+        "App Name": "My Big Sister",
+        "Discount Rate": "-80%",
+        "Price": "$0.71",
+        "Like Ratio": "86.53%",
+        "Release Date": "Nov 2018",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1222670",
+        "App Name": "The Sims\u2122 4",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Sep 2014",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1347600",
+        "App Name": "Dad's Monster House",
+        "Discount Rate": "-33%",
+        "Price": "$1.33",
+        "Like Ratio": "86.27%",
+        "Release Date": "Sep 2021",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "223710",
+        "App Name": "Cry of Fear",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Apr 2013",
+        "Playtime (minutes)": 34
+    },
+    {
+        "AppID": "704850",
+        "App Name": "Thief Simulator",
+        "Discount Rate": "-90%",
+        "Price": "$1.04",
+        "Like Ratio": "86.06%",
+        "Release Date": "Nov 2018",
+        "Playtime (minutes)": 936
+    },
+    {
+        "AppID": "40100",
+        "App Name": "Supreme Commander 2",
+        "Discount Rate": "-75%",
+        "Price": "$2.62",
+        "Like Ratio": "86.03%",
+        "Release Date": "Mar 2010",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "236850",
+        "App Name": "Europa Universalis IV",
+        "Discount Rate": "-70%",
+        "Price": "$7.19",
+        "Like Ratio": "86.03%",
+        "Release Date": "Aug 2013",
+        "Playtime (minutes)": 42978
+    },
+    {
+        "AppID": "1030840",
+        "App Name": "Mafia: Definitive Edition",
+        "Discount Rate": "-75%",
+        "Price": "$9.99",
+        "Like Ratio": "85.98%",
+        "Release Date": "Sep 2020",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "690790",
+        "App Name": "DiRT Rally 2.0",
+        "Discount Rate": "-75%",
+        "Price": "$4.99",
+        "Like Ratio": "85.93%",
+        "Release Date": "Feb 2019",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1166290",
+        "App Name": "Death and Taxes",
+        "Discount Rate": "-75%",
+        "Price": "$1.87",
+        "Like Ratio": "85.48%",
+        "Release Date": "Feb 2020",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1847240",
+        "App Name": "Game Dev Story",
+        "Discount Rate": "-62%",
+        "Price": "$3.41",
+        "Like Ratio": "85.47%",
+        "Release Date": "Mar 2022",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "240970",
+        "App Name": "Half Minute Hero: The Second Coming",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Apr 2014",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "2319470",
+        "App Name": "A TAVERN FOR TEA",
+        "Discount Rate": "-15%",
+        "Price": "$1.69",
+        "Like Ratio": "85.25%",
+        "Release Date": "Mar 2023",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "354240",
+        "App Name": "Please, Don\u2019t Touch Anything",
+        "Discount Rate": "-50%",
+        "Price": "$2.49",
+        "Like Ratio": "85.22%",
+        "Release Date": "Mar 2015",
+        "Playtime (minutes)": 245
+    },
+    {
+        "AppID": "1546920",
+        "App Name": "Overboard!",
+        "Discount Rate": "-60%",
+        "Price": "$5.99",
+        "Like Ratio": "85.11%",
+        "Release Date": "Jun 2021",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "761620",
+        "App Name": "Beholder 2",
+        "Discount Rate": "-85%",
+        "Price": "$1.19",
+        "Like Ratio": "85.09%",
+        "Release Date": "Dec 2018",
+        "Playtime (minutes)": 144
+    },
+    {
+        "AppID": "40990",
+        "App Name": "Mafia",
+        "Discount Rate": "-67%",
+        "Price": "$4.94",
+        "Like Ratio": "85.06%",
+        "Release Date": "Aug 2002",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1742930",
+        "App Name": "Looking Up I See Only A Ceiling",
+        "Discount Rate": "-20%",
+        "Price": "$1.59",
+        "Like Ratio": "84.81%",
+        "Release Date": "Mar 2023",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "345650",
+        "App Name": "Without Within",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Jan 2015",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "12100",
+        "App Name": "Grand Theft Auto III",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "May 2002",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "444090",
+        "App Name": "Paladins\u00ae",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "May 2018",
+        "Playtime (minutes)": 46
+    },
+    {
+        "AppID": "676130",
+        "App Name": "Without Within 3 (\u521d\u8877)",
+        "Discount Rate": "-50%",
+        "Price": "$2.49",
+        "Like Ratio": "84.32%",
+        "Release Date": "May 2018",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "757310",
+        "App Name": "Sable",
+        "Discount Rate": "-60%",
+        "Price": "$4.99",
+        "Like Ratio": "84.28%",
+        "Release Date": "Sep 2021",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "918820",
+        "App Name": "Headliner: NoviNews",
+        "Discount Rate": "-50%",
+        "Price": "$6.99",
+        "Like Ratio": "84.26%",
+        "Release Date": "Oct 2018",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "223280",
+        "App Name": "Cut the Rope",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "\u2014",
+        "Playtime (minutes)": 66
+    },
+    {
+        "AppID": "924140",
+        "App Name": "Hand Simulator: Survival",
+        "Discount Rate": "-50%",
+        "Price": "$0.99",
+        "Like Ratio": "84.19%",
+        "Release Date": "Dec 2019",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "504770",
+        "App Name": "Slavistan",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Jul 2016",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "687800",
+        "App Name": "Heads Will Roll: Reforged",
+        "Discount Rate": "-46%",
+        "Price": "$10.87",
+        "Like Ratio": "84.11%",
+        "Release Date": "Oct 2023",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1115690",
+        "App Name": "Yes, Your Grace",
+        "Discount Rate": "-75%",
+        "Price": "$2.62",
+        "Like Ratio": "83.86%",
+        "Release Date": "Mar 2020",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "269650",
+        "App Name": "Dex",
+        "Discount Rate": "-81%",
+        "Price": "$3.79",
+        "Like Ratio": "83.85%",
+        "Release Date": "May 2015",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1468720",
+        "App Name": "Ultimate Epic Battle Simulator 2",
+        "Discount Rate": "-50%",
+        "Price": "$9.99",
+        "Like Ratio": "83.84%",
+        "Release Date": "Jul 2023",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "335300",
+        "App Name": "DARK SOULS\u2122 II: Scholar of the First Sin",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Apr 2015",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "532210",
+        "App Name": "Life is Strange 2",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Sep 2018",
+        "Playtime (minutes)": 1758
+    },
+    {
+        "AppID": "303610",
+        "App Name": "Suicide Guy",
+        "Discount Rate": "-88%",
+        "Price": "$0.44",
+        "Like Ratio": "83.28%",
+        "Release Date": "Jul 2017",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "940710",
+        "App Name": "Colt Canyon",
+        "Discount Rate": "-80%",
+        "Price": "$1.59",
+        "Like Ratio": "83.26%",
+        "Release Date": "Jun 2020",
+        "Playtime (minutes)": 24
+    },
+    {
+        "AppID": "12200",
+        "App Name": "Bully: Scholarship Edition",
+        "Discount Rate": "-65%",
+        "Price": "$5.24",
+        "Like Ratio": "83.13%",
+        "Release Date": "Oct 2008",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "750920",
+        "App Name": "Shadow of the Tomb Raider: Definitive Edition",
+        "Discount Rate": "-89%",
+        "Price": "$4.93",
+        "Like Ratio": "82.90%",
+        "Release Date": "Sep 2018",
+        "Playtime (minutes)": 312
+    },
+    {
+        "AppID": "865360",
+        "App Name": "We Were Here Together",
+        "Discount Rate": "-62%",
+        "Price": "$2.77",
+        "Like Ratio": "82.89%",
+        "Release Date": "Oct 2019",
+        "Playtime (minutes)": 498
+    },
+    {
+        "AppID": "1624540",
+        "App Name": "Storyteller",
+        "Discount Rate": "-34%",
+        "Price": "$4.94",
+        "Like Ratio": "82.81%",
+        "Release Date": "Mar 2023",
+        "Playtime (minutes)": 204
+    },
+    {
+        "AppID": "657200",
+        "App Name": "Hand Simulator",
+        "Discount Rate": "-50%",
+        "Price": "$0.99",
+        "Like Ratio": "82.64%",
+        "Release Date": "Jul 2017",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "346110",
+        "App Name": "ARK: Survival Evolved",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Aug 2017",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "816490",
+        "App Name": "Hidden Paws",
+        "Discount Rate": "-75%",
+        "Price": "$0.74",
+        "Like Ratio": "82.46%",
+        "Release Date": "Mar 2018",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "2021910",
+        "App Name": "FPS Chess",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Jul 2022",
+        "Playtime (minutes)": 2
+    },
+    {
+        "AppID": "1627840",
+        "App Name": "Universe For Sale",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Nov 2023",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1707650",
+        "App Name": "Swords and Sandals Immortals",
+        "Discount Rate": "-30%",
+        "Price": "$9.79",
+        "Like Ratio": "82.30%",
+        "Release Date": "Mar 2023",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1222680",
+        "App Name": "Need for Speed\u2122 Heat",
+        "Discount Rate": "-95%",
+        "Price": "$3.50",
+        "Like Ratio": "82.29%",
+        "Release Date": "Nov 2019",
+        "Playtime (minutes)": 264
+    },
+    {
+        "AppID": "225540",
+        "App Name": "Just Cause\u2122 3",
+        "Discount Rate": "-85%",
+        "Price": "$2.39",
+        "Like Ratio": "82.26%",
+        "Release Date": "Dec 2015",
+        "Playtime (minutes)": 1644
+    },
+    {
+        "AppID": "291550",
+        "App Name": "Brawlhalla",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Oct 2017",
+        "Playtime (minutes)": 72
+    },
+    {
+        "AppID": "214830",
+        "App Name": "Half Minute Hero: Super Mega Neo Climax Ultimate Boy",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Sep 2012",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "2198070",
+        "App Name": "Cardboard Town",
+        "Discount Rate": "-40%",
+        "Price": "$3.59",
+        "Like Ratio": "82.04%",
+        "Release Date": "Aug 2023",
+        "Playtime (minutes)": 32
+    },
+    {
+        "AppID": "379430",
+        "App Name": "Kingdom Come: Deliverance",
+        "Discount Rate": "-80%",
+        "Price": "$4.59",
+        "Like Ratio": "82.03%",
+        "Release Date": "Feb 2018",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1404190",
+        "App Name": "Chess Brain",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Sep 2020",
+        "Playtime (minutes)": 8
+    },
+    {
+        "AppID": "353560",
+        "App Name": "Plug & Play",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Mar 2015",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1277510",
+        "App Name": "Re:ZERO -Starting Life in Another World- The Prophecy of the Throne",
+        "Discount Rate": "-80%",
+        "Price": "$11.99",
+        "Like Ratio": "81.74%",
+        "Release Date": "Jan 2021",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1343670",
+        "App Name": "Dealer's Life 2",
+        "Discount Rate": "-30%",
+        "Price": "$5.59",
+        "Like Ratio": "81.70%",
+        "Release Date": "Feb 2022",
+        "Playtime (minutes)": 1710
+    },
+    {
+        "AppID": "489360",
+        "App Name": "CASE: Animatronics",
+        "Discount Rate": "-90%",
+        "Price": "$0.99",
+        "Like Ratio": "81.64%",
+        "Release Date": "Aug 2016",
+        "Playtime (minutes)": 72
+    },
+    {
+        "AppID": "600090",
+        "App Name": "The Coma: Recut",
+        "Discount Rate": "-90%",
+        "Price": "$0.79",
+        "Like Ratio": "81.48%",
+        "Release Date": "Sep 2017",
+        "Playtime (minutes)": 126
+    },
+    {
+        "AppID": "1240590",
+        "App Name": "Sir Whoopass\u2122: Immortal Death",
+        "Discount Rate": "-50%",
+        "Price": "$8.49",
+        "Like Ratio": "81.43%",
+        "Release Date": "Aug 2022",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "228300",
+        "App Name": "Remember Me",
+        "Discount Rate": "-80%",
+        "Price": "$5.99",
+        "Like Ratio": "81.22%",
+        "Release Date": "Jun 2013",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "765810",
+        "App Name": "Mars Horizon",
+        "Discount Rate": "-70%",
+        "Price": "$3.14",
+        "Like Ratio": "81.03%",
+        "Release Date": "Nov 2020",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1206430",
+        "App Name": "The Unfinished Swan",
+        "Discount Rate": "-70%",
+        "Price": "$2.24",
+        "Like Ratio": "80.89%",
+        "Release Date": "Sep 2020",
+        "Playtime (minutes)": 90
+    },
+    {
+        "AppID": "398980",
+        "App Name": "Without Within 2",
+        "Discount Rate": "-50%",
+        "Price": "$2.49",
+        "Like Ratio": "80.69%",
+        "Release Date": "Nov 2015",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "711660",
+        "App Name": "CHUCHEL",
+        "Discount Rate": "-75%",
+        "Price": "$0.87",
+        "Like Ratio": "80.46%",
+        "Release Date": "Mar 2018",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1284410",
+        "App Name": "GWENT: The Witcher Card Game",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "May 2020",
+        "Playtime (minutes)": 18
+    },
+    {
+        "AppID": "1091500",
+        "App Name": "Cyberpunk 2077",
+        "Discount Rate": "-50%",
+        "Price": "$22.49",
+        "Like Ratio": "80.42%",
+        "Release Date": "Dec 2020",
+        "Playtime (minutes)": 17658
+    },
+    {
+        "AppID": "1749770",
+        "App Name": "Twofold",
+        "Discount Rate": "-10%",
+        "Price": "$8.99",
+        "Like Ratio": "80.36%",
+        "Release Date": "Oct 2023",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "420290",
+        "App Name": "Blackwake",
+        "Discount Rate": "-39%",
+        "Price": "$1.82",
+        "Like Ratio": "80.22%",
+        "Release Date": "Feb 2020",
+        "Playtime (minutes)": 126
+    },
+    {
+        "AppID": "794540",
+        "App Name": "Neo Cab",
+        "Discount Rate": "-85%",
+        "Price": "$1.19",
+        "Like Ratio": "80.10%",
+        "Release Date": "Oct 2019",
+        "Playtime (minutes)": 366
+    },
+    {
+        "AppID": "2113120",
+        "App Name": "Verlet Ascend",
+        "Discount Rate": "-40%",
+        "Price": "$1.79",
+        "Like Ratio": "80.09%",
+        "Release Date": "Feb 2023",
+        "Playtime (minutes)": 11
+    },
+    {
+        "AppID": "261640",
+        "App Name": "Borderlands: The Pre-Sequel",
+        "Discount Rate": "-75%",
+        "Price": "$9.99",
+        "Like Ratio": "80.05%",
+        "Release Date": "Oct 2014",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "12210",
+        "App Name": "Grand Theft Auto IV: The Complete Edition",
+        "Discount Rate": "-70%",
+        "Price": "$5.99",
+        "Like Ratio": "80.03%",
+        "Release Date": "Mar 2020",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1128810",
+        "App Name": "RISK: Global Domination",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Feb 2020",
+        "Playtime (minutes)": 66
+    },
+    {
+        "AppID": "12230",
+        "App Name": "Grand Theft Auto III",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "\u2014",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "799960",
+        "App Name": "Wizard101",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Sep 2008",
+        "Playtime (minutes)": 56
+    },
+    {
+        "AppID": "1479890",
+        "App Name": "Inua - A Story in Ice and Time",
+        "Discount Rate": "-60%",
+        "Price": "$5.99",
+        "Like Ratio": "79.45%",
+        "Release Date": "Feb 2022",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1225570",
+        "App Name": "Unravel Two",
+        "Discount Rate": "-80%",
+        "Price": "$3.99",
+        "Like Ratio": "79.43%",
+        "Release Date": "Jun 2018",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "2080640",
+        "App Name": "First Date : Late To Date",
+        "Discount Rate": "-40%",
+        "Price": "$0.66",
+        "Like Ratio": "79.22%",
+        "Release Date": "Aug 2022",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "612880",
+        "App Name": "Wolfenstein II: The New Colossus",
+        "Discount Rate": "-85%",
+        "Price": "$3.59",
+        "Like Ratio": "78.97%",
+        "Release Date": "Oct 2017",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1594400",
+        "App Name": "GAI Stops Auto: Right Version Simulator",
+        "Discount Rate": "-70%",
+        "Price": "$0.59",
+        "Like Ratio": "78.89%",
+        "Release Date": "Jun 2021",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "966330",
+        "App Name": "Flower",
+        "Discount Rate": "-73%",
+        "Price": "$1.02",
+        "Like Ratio": "78.77%",
+        "Release Date": "Feb 2019",
+        "Playtime (minutes)": 22
+    },
+    {
+        "AppID": "1172470",
+        "App Name": "Apex Legends\u2122",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Nov 2020",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "677160",
+        "App Name": "We Were Here Too",
+        "Discount Rate": "-80%",
+        "Price": "$1.15",
+        "Like Ratio": "78.71%",
+        "Release Date": "Feb 2018",
+        "Playtime (minutes)": 222
+    },
+    {
+        "AppID": "438740",
+        "App Name": "Friday the 13th: The Game",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "May 2017",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1588760",
+        "App Name": "Switchball HD",
+        "Discount Rate": "-50%",
+        "Price": "$4.49",
+        "Like Ratio": "78.62%",
+        "Release Date": "May 2021",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "427730",
+        "App Name": "Who's Your Daddy?!",
+        "Discount Rate": "-55%",
+        "Price": "$2.60",
+        "Like Ratio": "78.55%",
+        "Release Date": "Dec 2015",
+        "Playtime (minutes)": 60
+    },
+    {
+        "AppID": "869170",
+        "App Name": "Oneiros",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Mar 2020",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "308040",
+        "App Name": "Back to Bed",
+        "Discount Rate": "-45%",
+        "Price": "$3.29",
+        "Like Ratio": "78.38%",
+        "Release Date": "Aug 2014",
+        "Playtime (minutes)": 84
+    },
+    {
+        "AppID": "1328660",
+        "App Name": "Need for Speed\u2122 Hot Pursuit Remastered",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Nov 2020",
+        "Playtime (minutes)": 1032
+    },
+    {
+        "AppID": "850630",
+        "App Name": "Starting The Game",
+        "Discount Rate": "-70%",
+        "Price": "$0.44",
+        "Like Ratio": "78.22%",
+        "Release Date": "May 2018",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1721470",
+        "App Name": "Poppy Playtime",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Oct 2021",
+        "Playtime (minutes)": 156
+    },
+    {
+        "AppID": "231430",
+        "App Name": "Company of Heroes 2",
+        "Discount Rate": "-75%",
+        "Price": "$4.49",
+        "Like Ratio": "77.94%",
+        "Release Date": "Jun 2013",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "350640",
+        "App Name": "Sherlock Holmes: The Devil's Daughter",
+        "Discount Rate": "-85%",
+        "Price": "$2.69",
+        "Like Ratio": "77.89%",
+        "Release Date": "Jun 2016",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1990740",
+        "App Name": "Barro GT",
+        "Discount Rate": "-51%",
+        "Price": "$0.44",
+        "Like Ratio": "77.23%",
+        "Release Date": "May 2022",
+        "Playtime (minutes)": 9
+    },
+    {
+        "AppID": "2023050",
+        "App Name": "Lighthouse Keeper",
+        "Discount Rate": "-70%",
+        "Price": "$0.74",
+        "Like Ratio": "77.17%",
+        "Release Date": "Aug 2022",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "769970",
+        "App Name": "Bad Dream: Fever",
+        "Discount Rate": "-90%",
+        "Price": "$0.57",
+        "Like Ratio": "76.42%",
+        "Release Date": "Nov 2018",
+        "Playtime (minutes)": 96
+    },
+    {
+        "AppID": "205650",
+        "App Name": "The Testament of Sherlock Holmes",
+        "Discount Rate": "-90%",
+        "Price": "$1.19",
+        "Like Ratio": "76.26%",
+        "Release Date": "Sep 2012",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "11190",
+        "App Name": "Sherlock Holmes versus Jack the Ripper",
+        "Discount Rate": "-80%",
+        "Price": "$1.19",
+        "Like Ratio": "76.21%",
+        "Release Date": "Dec 2009",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1361000",
+        "App Name": "In Silence",
+        "Discount Rate": "-40%",
+        "Price": "$3.47",
+        "Like Ratio": "75.90%",
+        "Release Date": "Oct 2021",
+        "Playtime (minutes)": 96
+    },
+    {
+        "AppID": "1081510",
+        "App Name": "She Sees Red - Interactive Movie",
+        "Discount Rate": "-60%",
+        "Price": "$3.19",
+        "Like Ratio": "75.25%",
+        "Release Date": "Jul 2019",
+        "Playtime (minutes)": 66
+    },
+    {
+        "AppID": "320240",
+        "App Name": "We Happy Few",
+        "Discount Rate": "-90%",
+        "Price": "$5.99",
+        "Like Ratio": "75.03%",
+        "Release Date": "Aug 2018",
+        "Playtime (minutes)": 3378
+    },
+    {
+        "AppID": "616560",
+        "App Name": "Ultimate Epic Battle Simulator",
+        "Discount Rate": "-90%",
+        "Price": "$1.49",
+        "Like Ratio": "74.67%",
+        "Release Date": "Apr 2017",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "8140",
+        "App Name": "Tomb Raider: Underworld",
+        "Discount Rate": "-89%",
+        "Price": "$0.49",
+        "Like Ratio": "74.56%",
+        "Release Date": "Nov 2008",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "582660",
+        "App Name": "Black Desert",
+        "Discount Rate": "-70%",
+        "Price": "$1.49",
+        "Like Ratio": "74.22%",
+        "Release Date": "May 2017",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "104900",
+        "App Name": "ORION: Prelude",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Apr 2013",
+        "Playtime (minutes)": 138
+    },
+    {
+        "AppID": "667890",
+        "App Name": "Dead Maze",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Feb 2018",
+        "Playtime (minutes)": 72
+    },
+    {
+        "AppID": "1073870",
+        "App Name": "Self Shot",
+        "Discount Rate": "-80%",
+        "Price": "$0.59",
+        "Like Ratio": "72.47%",
+        "Release Date": "Jun 2019",
+        "Playtime (minutes)": 44
+    },
+    {
+        "AppID": "1388130",
+        "App Name": "Religion inc God Simulator",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Oct 2020",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1563180",
+        "App Name": "Internet Cafe Simulator 2",
+        "Discount Rate": "-55%",
+        "Price": "$4.72",
+        "Like Ratio": "72.11%",
+        "Release Date": "Jan 2022",
+        "Playtime (minutes)": 444
+    },
+    {
+        "AppID": "1097200",
+        "App Name": "Twelve Minutes",
+        "Discount Rate": "-60%",
+        "Price": "$4.79",
+        "Like Ratio": "71.40%",
+        "Release Date": "Aug 2021",
+        "Playtime (minutes)": 846
+    },
+    {
+        "AppID": "1363770",
+        "App Name": "Escape Quest",
+        "Discount Rate": "-30%",
+        "Price": "$2.09",
+        "Like Ratio": "70.10%",
+        "Release Date": "Sep 2020",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1030830",
+        "App Name": "Mafia II: Definitive Edition",
+        "Discount Rate": "-67%",
+        "Price": "$9.89",
+        "Like Ratio": "70.09%",
+        "Release Date": "May 2020",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "11140",
+        "App Name": "Sherlock Holmes: The Awakened (2008)",
+        "Discount Rate": "-80%",
+        "Price": "$1.19",
+        "Like Ratio": "69.56%",
+        "Release Date": "Sep 2008",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "673280",
+        "App Name": "GyroSphere Trials",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Aug 2017",
+        "Playtime (minutes)": 450
+    },
+    {
+        "AppID": "11040",
+        "App Name": "Sherlock Holmes - Nemesis",
+        "Discount Rate": "-80%",
+        "Price": "$1.19",
+        "Like Ratio": "68.78%",
+        "Release Date": "Apr 2008",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1172650",
+        "App Name": "INDUSTRIA",
+        "Discount Rate": "-60%",
+        "Price": "$4.19",
+        "Like Ratio": "67.91%",
+        "Release Date": "Sep 2021",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1184160",
+        "App Name": "RUSSIAPHOBIA",
+        "Discount Rate": "-51%",
+        "Price": "$0.44",
+        "Like Ratio": "67.61%",
+        "Release Date": "Dec 2020",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1570070",
+        "App Name": "Beholder 3",
+        "Discount Rate": "-60%",
+        "Price": "$3.19",
+        "Like Ratio": "66.91%",
+        "Release Date": "Mar 2022",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "601010",
+        "App Name": "Hotel Anatolia",
+        "Discount Rate": "-51%",
+        "Price": "$0.49",
+        "Like Ratio": "66.63%",
+        "Release Date": "Mar 2017",
+        "Playtime (minutes)": 11
+    },
+    {
+        "AppID": "1086640",
+        "App Name": "Dude Simulator 3",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Aug 2019",
+        "Playtime (minutes)": 66
+    },
+    {
+        "AppID": "407530",
+        "App Name": "ARK: The Survival Of The Fittest",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Aug 2017",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "517630",
+        "App Name": "Just Cause 4 Reloaded",
+        "Discount Rate": "-94%",
+        "Price": "$2.94",
+        "Like Ratio": "60.89%",
+        "Release Date": "Dec 2018",
+        "Playtime (minutes)": 258
+    },
+    {
+        "AppID": "1195460",
+        "App Name": "Last Year",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Dec 2019",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "11150",
+        "App Name": "Sherlock Holmes: The Silver Earring",
+        "Discount Rate": "-80%",
+        "Price": "$1.19",
+        "Like Ratio": "58.17%",
+        "Release Date": "Sep 2004",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1938090",
+        "App Name": "Call of Duty\u00ae",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Oct 2022",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "578080",
+        "App Name": "PUBG: BATTLEGROUNDS",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Dec 2017",
+        "Playtime (minutes)": 102
+    },
+    {
+        "AppID": "360430",
+        "App Name": "Mafia III: Definitive Edition",
+        "Discount Rate": "-67%",
+        "Price": "$9.89",
+        "Like Ratio": "56.91%",
+        "Release Date": "May 2020",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "684580",
+        "App Name": "Shoppe Keep 2",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Apr 2019",
+        "Playtime (minutes)": 18
+    },
+    {
+        "AppID": "337630",
+        "App Name": "Bermuda",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "Mar 2015",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1392060",
+        "App Name": "Erzurum",
+        "Discount Rate": "-51%",
+        "Price": "$0.44",
+        "Like Ratio": "40.45%",
+        "Release Date": "Feb 2021",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "11180",
+        "App Name": "Sherlock Holmes: The Mystery of the Persian Carpet",
+        "Discount Rate": "-80%",
+        "Price": "$1.19",
+        "Like Ratio": "38.64%",
+        "Release Date": "\u2014",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "12240",
+        "App Name": "Grand Theft Auto: Vice City",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "\u2014",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "596350",
+        "App Name": "Paladins - Public Test",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "\u2014",
+        "Playtime (minutes)": 0
+    },
+    {
+        "AppID": "1449560",
+        "App Name": "Metro Exodus Enhanced Edition",
+        "Discount Rate": "N/A",
+        "Price": "N/A",
+        "Like Ratio": "N/A",
+        "Release Date": "\u2014",
+        "Playtime (minutes)": 0
+    }
+]
